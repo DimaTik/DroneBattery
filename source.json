@@ -1,0 +1,19 @@
+{
+  "log_id": "9fa337d2-ab50-4c60-884a-857e0d1a9173",
+  "log_date": "2026-09-28",
+  "duration_s": 224,
+  "mav_type": "Quadrotor",
+  "sys_hw": "MATEK_H743_SLIM",
+  "ver_sw_release": "v1.17.0 255",
+  "flight_modes": [
+    2,
+    5
+  ],
+  "airframe_name": "Generic Quadcopter",
+  "download_url": "https://cdn.logs.px4.io/9fa337d2-ab50-4c60-884a-857e0d1a9173.ulg",
+  "type": "flightreport",
+  "sha256": "08955622a5ac9145691f87e77bc2085400e90c8b21aa45f54585254281804c8a",
+  "bytes": 9341248,
+  "retrieved": "2026-11-17",
+  "license": "CC-BY PX4: https://review.px4.io/browse"
+}

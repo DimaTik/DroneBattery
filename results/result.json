@@ -1,0 +1,41 @@
+{
+  "sha256": "08955622a5ac9145691f87e77bc2085400e90c8b21aa45f54585254281804c8a",
+  "parameters": {
+    "horizontal_speed_m_s": 0.3,
+    "vertical_speed_m_s": 0.2,
+    "thrust_window_s": 2.0,
+    "thrust_peak_to_peak": 0.1,
+    "thrust_min": 0.1,
+    "thrust_max": 0.9,
+    "position_max_age_s": 0.25,
+    "land_max_age_s": 1.5,
+    "thrust_max_age_s": 0.1,
+    "battery_max_gap_s": 0.5,
+    "segment_min_s": 5.0,
+    "target_hover_s": 5.0,
+    "window_half_s": 2.0
+  },
+  "status": "calculated",
+  "log_duration_s": 224.976362,
+  "dropouts": 369,
+  "battery_samples": 1051,
+  "hover_duration_s": 10.39991800000007,
+  "intervals": [
+    {
+      "start_s": 63.80009099999984,
+      "end_s": 74.20000899999991,
+      "duration_s": 10.39991800000007,
+      "samples": 50
+    }
+  ],
+  "target_time_s": 68.9999969999999,
+  "actual_hover_at_target_s": 5.199906000000055,
+  "window_start_s": 67.00002399999994,
+  "window_end_s": 70.80001300000004,
+  "window_samples": 20,
+  "median_voltage_v": 14.400929927825928,
+  "cell_count": 4,
+  "parameter_bat1_n_cells": 4,
+  "median_voltage_per_cell_v": 3.600232481956482,
+  "calculation_seconds": 1.290214
+}

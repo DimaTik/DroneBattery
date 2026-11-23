@@ -1,0 +1,14 @@
+{
+  "checks_passed": [
+    "source_hash",
+    "csv_median",
+    "raw_ulog_median",
+    "selected_hover",
+    "no_future_or_stale_alignment",
+    "gap_separates_segments",
+    "invalid_sample_separates_segments",
+    "insufficient_20_seconds"
+  ],
+  "median_voltage_v": 14.400929927825928,
+  "window_samples": 20
+}
